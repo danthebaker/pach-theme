@@ -99,7 +99,7 @@ Skip to Main Content.
 </a>
 </li>
 </ul>
-<?php html5blank_nav(); ?>
+<!--?php html5blank_nav(); ?-->
 <div class="site-header__buttons grid grid--site-header-buttons">
 <a class="button button--purple border-radius-four-pixels relative" href=https://hub.pachyderm.com>
 Try for Free
