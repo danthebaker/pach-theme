@@ -31,7 +31,7 @@
 <script type=text/javascript src=//js.hsforms.net/forms/v2.js></script>
 <?php wp_head(); ?>
 </head>
-<body class=relative <?php body_class(); ?>>
+<body class=relative>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGZQGKM" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>
 <div class="modal request-modal" id=modal-2 aria-hidden=true>
 <div tabindex=-1 data-micromodal-close>
